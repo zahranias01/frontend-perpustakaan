@@ -8,7 +8,6 @@ import bukufiksi from '../views/bukufiksi.vue';
 import detailbuku from '../views/detailbuku.vue';
 import Bukukategori from '../views/bukukategori.vue';
 import hasilpencarian from '../views/hasilpencarian.vue';
-import Wishlist from '../views/wishlist.vue';
 
 const routes = [
   { path: '/signin', name: 'SignIn', component: signin },
