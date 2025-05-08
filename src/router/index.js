@@ -42,7 +42,7 @@ const routes = [
   {
     path: '/wishlist',
     name: 'Wishlist',
-    component: () => import('@/views/Wishlist.vue')
+    component: () => import('@/views/wishlist.vue')
   }
   
   
